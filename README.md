@@ -9,17 +9,18 @@
 Make sure to you have react native installed on your system
 Please refer `https://facebook.github.io/react-native/docs/getting-started.html` for setting up react native on your system
 
-- Goto src/constants/AppConstant.js 
+- 
+- Navigate to src/constants/AppConstant.js in android 
 - Change `SERVER_URL` to your localhost ex:`http://192.168.43.44` 
-- Set Port to 4000 ex ex:`http://192.168.43.44:4000`
+- Set Port to 4000
 - Final url ex:`http://192.168.43.44:4000`
 
 
 
-# Node-Server
+# Node-Backend
 `npm install`
 
-- Goto src/constant.js 
+- Navigate src/constant.js in Node-Backend
 - Change `SERVER_URL` to your localhost ex:`http://192.168.43.44` 
 - Set Port to 5000
 - Final url ex:`http://192.168.43.44:5000/process`
@@ -30,7 +31,7 @@ Please refer `https://facebook.github.io/react-native/docs/getting-started.html`
 `pip install -r requirements.txt`
 
 
-- Install difflib, textblob, pandas, numpy, sklearn,  BeautifulSoup
+- Make sure difflib, textblob, pandas, numpy, sklearn, BeautifulSoup is installed
 - Now download csv files from web. 
 - Answers.csv `https://www.kaggle.com/stackoverflow/pythonquestions`
 - Questions.csv `https://www.kaggle.com/stackoverflow/pythonquestions`
@@ -39,7 +40,8 @@ Please refer `https://facebook.github.io/react-native/docs/getting-started.html`
 # After you are done with this. Connect your android device with your PC and run
 
 For Android in a new terminal window navigate to Android directory and run
-`react-native run-android` this. will install the app on your android device  
+Please refer facebook react-native home page for more info on how to run app on device.
+`react-native run-android` this will install the app on your android device  
 `npm start`
 
 For Node-backend run

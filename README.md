@@ -3,7 +3,7 @@
 ## Getting Started
 
 
-# YouTube url of for sample
+# YouTube url for sample
 https://youtu.be/ACnUQD-pCrU
 
 
